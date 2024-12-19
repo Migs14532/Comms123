@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(135deg, #00c6ff, #0072ff);
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  .card {
+    border-radius: 12px;
+    background-color: #ffffff;
+    color: #333;
+  }
+  
+  .card h4 {
+    color: #333;
+  }
+  
+  .form-control {
+    border-radius: 20px;
+    padding: 10px 15px;
+  }
+  
+  .btn-primary {
+    border-radius: 20px;
+    background-color: #0072ff;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #005bb5;
+  }
+  
+  .navbar {
+    border-top: 1px solid #ddd;
+    font-size: 12px;
+    text-align: center;
+  }
+  
+  .navbar i {
+    font-size: 1.5rem;
+  }
+
+  textarea:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+  .card-body i {
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
